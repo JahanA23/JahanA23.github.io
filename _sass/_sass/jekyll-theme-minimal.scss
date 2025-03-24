@@ -1,3 +1,19 @@
+root {
+    --background-color: #f6f8fa;
+    --text-color: #24292f;
+    --border-color: #d0d7de;
+    --secondary-text-color: #6e7781;
+}
+
 body {
-  background-color: #D3D3D3;
+    background-color: var(--background-color);
+    color: var(--text-color);
+}
+
+a {
+    color: #0969da; /* GitHub link blue */
+}
+
+hr {
+    border-color: var(--border-color);
 }
