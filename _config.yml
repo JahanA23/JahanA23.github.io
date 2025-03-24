@@ -3,4 +3,6 @@ logo: img/J_profile.jpg
 #description: text below image
 show_downloads: true
 theme: jekyll-theme-minimal
+background-color: 12
+
 
