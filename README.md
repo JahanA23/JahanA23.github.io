@@ -1,11 +1,11 @@
 # IT and Customer Service
 
-#### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
+#### Technical Skills: Active Directory, Ticketing system Python, OOP bascis, SQL, AWS, Customer Service
 
 ## Certifications
 ![image](https://github.com/user-attachments/assets/32eb512c-5d7e-43a2-b3ba-952db66455e9)
 
-
+Covered topics such as mobile devices, networking technology, hardware, virtualization, cloud computing, operating systems, security, software, and operational procedures. These topics involved practical learning with Microsoft server 2019, active directory, group policies, DC, implementing security, ticketing system and understanding troubleshooting scenarios. 
 
 ## Projects
 ### Data-Driven EEG Band Discovery with Decision Trees
