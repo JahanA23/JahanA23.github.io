@@ -7,6 +7,8 @@ img/aplus-logo.png
 - Ph.D., Physics | The University of Texas at Dallas (_May 2022_)								       		
 - M.S., Physics	| The University of Texas at Dallas (_December 2019_)	 			        		
 - B.S., Physics | The University of Texas at Dallas (_May 2017_)
+- ![image](https://github.com/user-attachments/assets/9d66eff6-4f4b-4369-82a7-da208a6398b3)
+
 
 ## Work Experience
 **Data Scientist @ Toyota Financial Services (_June 2022 - Present_)**
