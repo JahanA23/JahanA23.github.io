@@ -23,6 +23,18 @@ Used **Matlab** to train over 100 machine learning models which estimated partic
 
 Covered topics such as mobile devices, networking technology, hardware, virtualization, cloud computing, operating systems, security, software, and operational procedures. These topics involved practical learning with Microsoft server 2019, active directory, group policies, DC, implementing security, ticketing system and understanding troubleshooting scenarios.
 
+
+● Duke of Edinburgh silver award
+3 Days of camping & navigating within the group of seven while working as a volunteer for 6 months. On the plus side Learning new skills & doing physical sports. 
+
+● Winner of Most good news notes in secondary school out of 300+ students As a young individual at the time I couldn't speak proper English and wasn't achieving much good news notes at the beginning. Quickly I started performing better in class and over-took my peers. 
+
+● Student of the year (03/2016) 
+
+● Multiple 100% attendance certificates 
+
+
+
 ## Work Experience
 
 Night replenishment Waitrose & Partners 11/2024 - 01/2025, Full-time (temporary position) 
