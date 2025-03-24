@@ -39,12 +39,14 @@ Collaborated responsibility for the headset to let security know of any issues a
 
 
 
-
 Education
+
 HND., Computing | Harrow, Richmond & Uxbridge Colleges (2024)
 
-HNC., Computing |  Harrow, Richmond & Uxbridge Colleges (2023)
+HNC., Computing	Harrow, Richmond & Uxbridge Colleges (2023)
 
-Micro-credential., Coding | The Open University(2023)
+Micro-credential., Coding	The Open University(2023)
 
-Level 3 Diploma., Information Technology | Stanmore College (May 2022)
+Level 3 Diploma., Information Technology	Stanmore College (May 2022)
+
+
