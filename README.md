@@ -24,44 +24,27 @@ Used **Matlab** to train over 100 machine learning models which estimated partic
 
 ## Work Experience
 
-Night replenishment 
-Waitrose & Partners 
-11/2024 - 01/2025,  
-Full-time (temporary position) 
-Achievements/Tasks 
-Spotting, stacking shelves and Online shopping for
- customers. Enjoyable experience with practical technological
- training. 
-Retail Assistant 
-Primark 
-05/2022 - 04/2023,  
-Achievements/Tasks 
-Worked as a retail assistant, I was doing various work such as
- tills, departments, refund & exchange 
-Contributed to an individual target of 175 items scanned per
- hour 
-Collaborated responsibility for the headset to let security
- know of any issues and communicate to managers
- accordingly 
-Team Member 
-Domino's Pizza 
-08/2021 - 04/2022,  
-Achievements/Tasks 
-Contributed as a team preparing, making, and boxing up the
- Pizzas. Worked as a team helping customers. Demonstrated
- 30+ pizza toppings 
-Volunteering 
-Barnardo's 
-2019,  
-Achievements/Tasks 
-Worked to label items to help customers while gaining
- experience for the Duke of Edinburgh 
+Night replenishment Waitrose & Partners 11/2024 - 01/2025, Full-time (temporary position) 
+
+Achievements/Tasks Spotting, stacking shelves and Online shopping for customers. Enjoyable experience with practical technological training.
+
+Retail Assistant Primark 05/2022 - 04/2023, 
+
+Achievements/Tasks Worked as a retail assistant, I was doing various work such as tills, departments, refund & exchange 
+
+Contributed to an individual target of 175 items scanned per hour 
+
+Collaborated responsibility for the headset to let security know of any issues and communicate to managers accordingly
+
 
 
 
 
 Education
 HND., Computing | Harrow, Richmond & Uxbridge Colleges (2024)
+
 HNC., Computing |  Harrow, Richmond & Uxbridge Colleges (2023)
+
 Micro-credential., Coding | The Open University(2023)
+
 Level 3 Diploma., Information Technology | Stanmore College (May 2022)
