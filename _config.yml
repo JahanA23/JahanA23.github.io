@@ -1,11 +1,6 @@
 title: Jahan Ali
 logo: img/J_profile.jpg
 description: <a href="https://www.youtube.com/@Jahan_424 " target="_blank" rel="noopener noreferrer">Youtube</a>
-        body {
-            background-color: #121212;
-            color: #ffffff;
-            font-family: Arial, sans-serif;
-        }
 show_downloads: true
 theme: jekyll-theme-minimal
 
