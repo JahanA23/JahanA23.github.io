@@ -1,11 +1,7 @@
 # IT and Customer Service
 
 #### Technical Skills: Active Directory, Ticketing system Python, OOP bascis, SQL, AWS, Customer Service
-
-## Certifications
-![image](https://github.com/user-attachments/assets/32eb512c-5d7e-43a2-b3ba-952db66455e9)
-
-Covered topics such as mobile devices, networking technology, hardware, virtualization, cloud computing, operating systems, security, software, and operational procedures. These topics involved practical learning with Microsoft server 2019, active directory, group policies, DC, implementing security, ticketing system and understanding troubleshooting scenarios. 
+ 
 
 ## Projects
 ### Data-Driven EEG Band Discovery with Decision Trees
@@ -21,6 +17,11 @@ Developed objective strategy for discovering optimal EEG bands based on signal p
 Used **Matlab** to train over 100 machine learning models which estimated particulate matter concentrations based on a suite of over 300 biometric variables. We found biometric variables can be used to accurately estimate particulate matter concentrations at ultra-fine spatial scales with high fidelity (r2 = 0.91) and that smaller particles are better estimated than larger ones. Inferring environmental conditions solely from biometric measurements allows us to disentangle key interactions between the environment and the body.
 
 ![Bike Study](/assets/img/bike_study.jpeg)
+
+## Certifications
+![image](https://github.com/user-attachments/assets/32eb512c-5d7e-43a2-b3ba-952db66455e9)
+
+Covered topics such as mobile devices, networking technology, hardware, virtualization, cloud computing, operating systems, security, software, and operational procedures. These topics involved practical learning with Microsoft server 2019, active directory, group policies, DC, implementing security, ticketing system and understanding troubleshooting scenarios.
 
 ## Work Experience
 
@@ -38,8 +39,7 @@ Collaborated responsibility for the headset to let security know of any issues a
 
 
 
-
-Education
+## Work Experience
 
 HND., Computing | Harrow, Richmond & Uxbridge Colleges (2024)
 
