@@ -39,7 +39,8 @@ Collaborated responsibility for the headset to let security know of any issues a
 
 
 
-## Work Experience
+## Education
+
 
 HND., Computing | Harrow, Richmond & Uxbridge Colleges (2024)
 
