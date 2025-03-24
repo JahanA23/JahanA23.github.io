@@ -3,7 +3,8 @@
 #### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
 
 ## Certifications
-- ![image](https://github.com/user-attachments/assets/9d66eff6-4f4b-4369-82a7-da208a6398b3)
+![image](https://github.com/user-attachments/assets/32eb512c-5d7e-43a2-b3ba-952db66455e9)
+
 
 
 ## Projects
