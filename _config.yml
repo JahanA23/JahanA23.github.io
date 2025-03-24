@@ -2,6 +2,5 @@ title: Jahan
 logo: img/aplus-logo.png
 #description: text below image
 show_downloads: true
-theme: jekyll-theme-minima
-backgroud: dark
+theme: jekyll-theme-minimal
 
