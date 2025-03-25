@@ -4,7 +4,6 @@
  
 
 ## Projects
-https://colab.research.google.com/drive/1fxFpLVfB5zuN8dFkRQx1M5C5b84vVGap#scrollTo=Mw6qKQsDOyEO&line=4&uniqifier=1
 
 ### Excel working with Data
 Working with numbers in Excel is a lifelong skill! Excel turns data into information that is easier to grasp. I enjoy doing projects using data ribbon and turn it into meaningful information.
