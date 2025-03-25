@@ -70,10 +70,16 @@ Micro-credential., Coding	The Open University(2023)
 
 Level 3 Diploma., Information Technology	Stanmore College (May 2022)
 
-## Travel
+## Hobbies/ Travel
+
+MMA - green belt
+Passionate about Basketball
+Passionate reading about IT, Law and pyscology 
+
+![image](https://github.com/user-attachments/assets/cc589f04-6b58-4e6a-a19d-c28ba6cabd8d)
 
 
-https://github.com/user-attachments/assets/4c2d8a71-5588-46b0-9d5d-7d15aa1fc060
+
 
 
 
