@@ -64,7 +64,8 @@ Collaborated responsibility for the headset to let security know of any issues a
 
 ## Education
 
-HND., Computing | Harrow, Richmond & Uxbridge Colleges (2024)
+
+HND,.
 
 HNC., Computing	Harrow, Richmond & Uxbridge Colleges (2023)
 
