@@ -73,8 +73,10 @@ Level 3 Diploma., Information Technology	Stanmore College (May 2022)
 ## Hobbies/ Travel
 
 MMA - green belt
+
 Passionate about Basketball
-Passionate reading about IT, Law and pyscology 
+
+Passionate reading about IT, Law and Psychology
 
 ![image](https://github.com/user-attachments/assets/cc589f04-6b58-4e6a-a19d-c28ba6cabd8d)
 
