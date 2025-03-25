@@ -58,13 +58,13 @@ Micro-credential., Coding	The Open University(2023)
 
 Level 3 Diploma., Information Technology	Stanmore College (May 2022)
 
-#### Duke of Edinburgh silver award - 3 Days of camping & navigating within the group of seven while working as a volunteer for 6 months. On the plus side Learning new skills & doing physical sports. 
+Duke of Edinburgh silver award - 3 Days of camping & navigating within the group of seven while working as a volunteer for 6 months. On the plus side Learning new skills & doing physical sports. 
 
-#### Winner of Most good news notes in secondary school out of 300+ students - As a young individual at the time I couldn't speak proper English and wasn't achieving much good news notes at the beginning. Quickly I started performing better in class and over-took my peers. 
+Winner of Most good news notes in secondary school out of 300+ students - As a young individual at the time I couldn't speak proper English and wasn't achieving much good news notes at the beginning. Quickly I started performing better in class and over-took my peers. 
 
-#### Student of the year (03/2016) 
+Student of the year (03/2016) 
 
-#### Multiple 100% attendance certificates 
+Multiple 100% attendance certificates 
 
 ## Hobbies/ Travel
 
