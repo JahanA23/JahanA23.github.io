@@ -46,19 +46,8 @@ Covered topics such as mobile devices, networking technology, hardware, virtuali
 
 
 
-## Work Experience
+## Blogs
 
-Night replenishment Waitrose & Partners 11/2024 - 01/2025, Full-time (temporary position) 
-
-Achievements/Tasks Spotting, stacking shelves and Online shopping for customers. Enjoyable experience with practical technological training.
-
-Retail Assistant Primark 05/2022 - 04/2023, 
-
-Achievements/Tasks Worked as a retail assistant, I was doing various work such as tills, departments, refund & exchange 
-
-Contributed to an individual target of 175 items scanned per hour 
-
-Collaborated responsibility for the headset to let security know of any issues and communicate to managers accordingly
 
 
 
@@ -67,6 +56,8 @@ Collaborated responsibility for the headset to let security know of any issues a
 
 
 Level 5 HND,. Computing -  HRUC (2024)
+
+![Screenshot_20250325_165210_Adobe Acrobat](https://github.com/user-attachments/assets/5bf2bd15-c024-4bf7-a050-5262d6135930)
 
 Level 4 HNC., Computing	Harrow, Richmond & Uxbridge Colleges - HRUC (2023)
 
