@@ -5,7 +5,7 @@
 
 ## Projects
 ### Excel working with Data
-Working with numbers in Excel is a lifelong skill! Excel turns data into information that is easier to grasp. I enjoy doing projects using data ribbon and data to turn it into meaningful information.
+Working with numbers in Excel is a lifelong skill! Excel turns data into information that is easier to grasp. I enjoy doing projects using data ribbon and turn it into meaningful information.
 
 
 ## Certifications
