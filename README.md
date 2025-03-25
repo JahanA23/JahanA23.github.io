@@ -1,4 +1,4 @@
-# Technican / IT support / Ambitious ML and Android developer ( releveant Customer Service experience)
+# Technican / IT support / Ambitious ML and Android developer ( releveant Customer Service experience) - Comptia A+ core 1 passed
 
 #### Technical Skills: Active Directory, Ticketing system Python, OOP bascis, SQL, AWS, Customer Service
  
