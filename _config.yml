@@ -1,7 +1,6 @@
 title: Jahan Ali - Portfolio
 logo: img/J_profile.jpg
-description: <a href="https://www.youtube.com/@Jahan_424 " target="_blank" rel="noopener noreferrer">Youtube</a>
-blog_url: <a href="https://jahanarticles.blogspot.com/p/learning-techniques-what-is-machine.html"> # Add this line
+description: <a href="https://www.youtube.com/@Jahan_424 " target="_blank" rel="noopener noreferrer">Youtube</a href="https://jahanarticles.blogspot.com/p/learning-techniques-what-is-machine.html">
 show_downloads: true
 theme: jekyll-theme-minimal
 
