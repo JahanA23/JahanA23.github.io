@@ -1,4 +1,4 @@
-# IT and Customer Service
+# Technican / IT support / Ambitious ML and Android developer ( releveant Customer Service experience)
 
 #### Technical Skills: Active Directory, Ticketing system Python, OOP bascis, SQL, AWS, Customer Service
  
@@ -34,16 +34,8 @@ Covered topics such as mobile devices, networking technology, hardware, virtuali
 
 
 
-## Self study
+## Knowledge 
 ![image](https://github.com/user-attachments/assets/3b1d5acd-f248-46c6-a773-387fbb56dafa)
-
-
-
-## Blogs
-
-! [https://jahanarticles.blogspot.com/p/learning-techniques-what-is-machine.html ]
-
-
 
 
 
