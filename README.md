@@ -7,8 +7,14 @@
 ### Excel working with Data
 Working with numbers in Excel is a lifelong skill! Excel turns data into information that is easier to grasp. I enjoy doing projects using data ribbon and turn it into meaningful information.
 
+
+
+## Projects tips/shortcuts
+
 ![image](https://github.com/user-attachments/assets/a1c0bcf8-529a-4355-b651-d3d339e08df1)
 
+
+By disabling autofit column widths the pivot table can made bigger or smaller and won't reset after a refresh. This is beneficial to avoid rest of pivot table widths.
 
 ## Certifications
 ![image](https://github.com/user-attachments/assets/32eb512c-5d7e-43a2-b3ba-952db66455e9)
