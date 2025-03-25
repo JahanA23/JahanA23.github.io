@@ -41,6 +41,9 @@ Covered topics such as mobile devices, networking technology, hardware, virtuali
 
 ## Blogs
 
+https://jahanarticles.blogspot.com/p/learning-techniques-what-is-machine.html
+
+
 
 
 
