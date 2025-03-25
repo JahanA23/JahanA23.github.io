@@ -1,6 +1,10 @@
 title: Jahan Ali - Portfolio
 logo: img/J_profile.jpg
 description: <a href="https://www.youtube.com/@Jahan_424 " target="_blank" rel="noopener noreferrer">Youtube</a>
+title: "My Awesome Blog"
+description: "A blog about tech, coding, and more"
+blog_title: "Latest Posts"
+<a href="https://jahanarticles.blogspot.com/p/learning-techniques-what-is-machine.html">My First Blog Post</a>
 show_downloads: true
 theme: jekyll-theme-minimal
 
