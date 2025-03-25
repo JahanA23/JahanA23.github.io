@@ -34,6 +34,8 @@ Covered topics such as mobile devices, networking technology, hardware, virtuali
 
 ● Multiple 100% attendance certificates 
 
+## Self study
+![image](https://github.com/user-attachments/assets/82a34fc0-d571-4617-8b26-f62fffc738d7)
 
 
 ## Work Experience
