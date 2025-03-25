@@ -16,6 +16,14 @@ Working with numbers in Excel is a lifelong skill! Excel turns data into informa
 
 By disabling autofit column widths the pivot table can made bigger or smaller and won't reset after a refresh. This is beneficial to avoid rest of pivot table widths.
 
+Report layout options
+
+![image](https://github.com/user-attachments/assets/52f9b204-9309-4ec4-82d5-c5de20b13e3a)
+
+![image](https://github.com/user-attachments/assets/3ae3f74f-cfd4-4d0f-aec6-00d51c466ab3)
+
+
+
 ## Certifications
 ![image](https://github.com/user-attachments/assets/32eb512c-5d7e-43a2-b3ba-952db66455e9)
 
