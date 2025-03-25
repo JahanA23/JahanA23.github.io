@@ -7,6 +7,8 @@
 ### Excel working with Data
 Working with numbers in Excel is a lifelong skill! Excel turns data into information that is easier to grasp. I enjoy doing projects using data ribbon and turn it into meaningful information.
 
+![image](https://github.com/user-attachments/assets/a1c0bcf8-529a-4355-b651-d3d339e08df1)
+
 
 ## Certifications
 ![image](https://github.com/user-attachments/assets/32eb512c-5d7e-43a2-b3ba-952db66455e9)
