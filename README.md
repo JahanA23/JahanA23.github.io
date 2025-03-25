@@ -65,9 +65,9 @@ Collaborated responsibility for the headset to let security know of any issues a
 ## Education
 
 
-HND,.
+Level 5 HND,. Computing | HRUC (2024)
 
-HNC., Computing	Harrow, Richmond & Uxbridge Colleges (2023)
+Level 4 HNC., Computing	Harrow, Richmond & Uxbridge Colleges - HRUC (2023)
 
 Micro-credential., Coding	The Open University(2023)
 
