@@ -70,4 +70,10 @@ Micro-credential., Coding	The Open University(2023)
 
 Level 3 Diploma., Information Technology	Stanmore College (May 2022)
 
+## Travel
+
+
+https://github.com/user-attachments/assets/4c2d8a71-5588-46b0-9d5d-7d15aa1fc060
+
+
 
