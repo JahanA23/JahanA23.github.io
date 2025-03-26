@@ -8,8 +8,7 @@
 ### Python
 
 
-
-![image](https://github.com/user-attachments/assets/0bb086ea-a352-4273-982a-ad4c2b7a2eae)
+![image](https://github.com/user-attachments/assets/884196ba-0326-4e97-b3f9-9044a1337897)
 
     
     
