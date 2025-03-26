@@ -5,9 +5,10 @@
 
 ## Projects
 
-###IT Support/Technical projects
+### IT Support/Technical projects
 
 Utilsing VMware i created my own lab. This includes setting up domain controller, active dictory and user accounts.
+
 ![image](https://github.com/user-attachments/assets/945941fb-7e69-4169-9515-2812202a896e)
 
 ### Python
