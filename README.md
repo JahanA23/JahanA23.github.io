@@ -8,9 +8,13 @@
 ### Python
 
 families = ["Tuhin", "Jahan", "Saamir"]
+
 for family in families:
+
     print(family)
+    
     print("Thaludar")
+    
     
 ![image](https://github.com/user-attachments/assets/3b054e31-d610-4327-9a28-0acdc9f1f90b)
 ![image](https://github.com/user-attachments/assets/1d96d6cb-a6c8-4681-a755-b28b7b96a73c)
