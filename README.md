@@ -7,13 +7,17 @@
 
 ### Python
 
-families = ["Tuhin", "Jahan", "Saamir"]
+<textarea families = ["Tuhin", "Jahan", "Saamir"]
 
 for family in families:
 
     print(family)
     
-    print("Thaludar")
+    print("Thaludar") 
+    
+    
+    
+</textarea>
     
     
 ![image](https://github.com/user-attachments/assets/3b054e31-d610-4327-9a28-0acdc9f1f90b)
