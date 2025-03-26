@@ -7,12 +7,9 @@
 
 ### Python
 
-families = ["Tuhin", "Jahan", "Saamir"]
-for family in families:
-    print(family)
-        print("Thaludar") 
 
-      ![image](https://github.com/user-attachments/assets/0bb086ea-a352-4273-982a-ad4c2b7a2eae)
+
+![image](https://github.com/user-attachments/assets/0bb086ea-a352-4273-982a-ad4c2b7a2eae)
 
     
     
