@@ -29,7 +29,6 @@ Problems could be....
 Outdated PDF reader                 Corrupted PDF
 Software conflicts                  Anti-malware blocking access
 
-![image](https://github.com/user-attachments/assets/db3e0b8b-f5ce-4fba-8456-066ea6635b15)
 
 
 
