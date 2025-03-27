@@ -15,8 +15,30 @@ Spiceworks Cloud ticketing system is utilised by millions of users and organisat
 ![image](https://github.com/user-attachments/assets/aec459ac-190e-47e0-ae45-e7ffa56cbca8)
 
 
-![image](https://github.com/user-attachments/assets/d1534eef-8bd0-46ca-8fb0-86b24af8fbee)
+Working for an organisation most likely has Domain controllers, group policies and identifiable computers in place. Therefore, I must introduce myself and ask for more details, for example, the PC they are on.
 
+![image](https://github.com/user-attachments/assets/bb248c1e-d08e-4067-b8f6-b078625c7a08)
+
+Professionalism is essential. Being polite and assuring customers that they are in good hands is important. 
+
+We have a rough idea of the issue but must always ask clients questions to get the probable cause.
+
+Problems could be....
+
+Outdated PDF reader                 Corrupted PDF
+Software conflicts                  Anti-malware blocking access
+
+![image](https://github.com/user-attachments/assets/db3e0b8b-f5ce-4fba-8456-066ea6635b15)
+
+
+
+![image](https://github.com/user-attachments/assets/0ccc8eb6-f34f-4095-9436-b5b919960f34)
+
+
+![image](https://github.com/user-attachments/assets/98b82d2a-813e-4456-9e0f-1be5294bb89f)
+
+
+![Uploading image.png…]()
 
 
 
