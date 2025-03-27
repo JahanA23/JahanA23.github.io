@@ -23,22 +23,12 @@ Professionalism is essential. Being polite and assuring customers that they are 
 
 We have a rough idea of the issue but must always ask clients questions to get the probable cause.
 
-Problems could be....
+Problems could be...
 
 Outdated PDF reader
 Software conflicts
 Corrupted PDF
 Anti-malware software blocking access
-
-
-
-
-
-
-
-![image](https://github.com/user-attachments/assets/98b82d2a-813e-4456-9e0f-1be5294bb89f)
-
-
 
 
 
