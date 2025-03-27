@@ -45,7 +45,7 @@ Utilsing VMware i created my own lab. This includes setting up domain controller
 ### Python
 
 ![image](https://github.com/user-attachments/assets/9d02142a-d986-4d74-8d04-6adcabd788ce)
-[![Run code on Replit](https://replit.com/@jahanali4247/pythonprogramming)](https://replit.com/@jahanali4247/pythonprogramming)
+[![Run on Replit](https://replit.com/@jahanali4247/pythonprogramming)](https://replit.com/@jahanali4247/pythonprogramming)
     
 
 
