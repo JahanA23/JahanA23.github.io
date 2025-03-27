@@ -25,15 +25,15 @@ We have a rough idea of the issue but must always ask clients questions to get t
 
 Problems could be...
 
-Outdated PDF reader
-Software conflicts
-Corrupted PDF
+Outdated PDF reader,
+Software conflicts,
+Corrupted PDF, and
 Anti-malware software blocking access
 
 
 
 
-Utilsing VMware i created my own lab. This includes setting up domain controller, active dictory and user accounts.
+##### Utilsing VMware i created my own lab. This includes setting up domain controller, active dictory and user accounts.
 
 ![image](https://github.com/user-attachments/assets/945941fb-7e69-4169-9515-2812202a896e)
 
