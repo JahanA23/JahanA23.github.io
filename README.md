@@ -25,8 +25,11 @@ We have a rough idea of the issue but must always ask clients questions to get t
 
 Problems could be....
 
-Outdated PDF reader                 Corrupted PDF
-Software conflicts                  Anti-malware blocking access
+Outdated PDF reader
+Software conflicts
+Corrupted PDF
+Anti-malware software blocking access
+
 
 
 
@@ -34,10 +37,11 @@ Software conflicts                  Anti-malware blocking access
 ![image](https://github.com/user-attachments/assets/0ccc8eb6-f34f-4095-9436-b5b919960f34)
 
 
+
 ![image](https://github.com/user-attachments/assets/98b82d2a-813e-4456-9e0f-1be5294bb89f)
 
 
-![Uploading image.png…]()
+
 
 
 
