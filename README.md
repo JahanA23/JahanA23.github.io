@@ -16,7 +16,7 @@ Spiceworks Cloud ticketing system is utilised by millions of users and organisat
 
 
 
-Working for an organisation most likely has Domain controllers, group policies and identifiable computers in place. Therefore, I must introduce myself and ask for more details, for example, the PC they are on.
+Working for an organisation most likely has Domain controllers, group policies and identifiable computers in place. Therefore, I must introduce myself to the client and ask for more details, for example, the PC they are on.
 
 ![image](https://github.com/user-attachments/assets/bb248c1e-d08e-4067-b8f6-b078625c7a08)
 
