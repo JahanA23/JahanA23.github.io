@@ -15,8 +15,7 @@ Spiceworks Cloud ticketing system is utilised by millions of users and organisat
 ![image](https://github.com/user-attachments/assets/aec459ac-190e-47e0-ae45-e7ffa56cbca8)
 
 
-
-![image](https://github.com/user-attachments/assets/98349517-92f0-4af7-9955-7bb2208a19a0)
+![image](https://github.com/user-attachments/assets/5aa98843-bbf9-47ab-9889-3aa77857f7ad)
 
 
 
