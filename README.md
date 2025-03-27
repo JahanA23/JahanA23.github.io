@@ -12,8 +12,7 @@
 
 Spiceworks Cloud ticketing system is utilised by millions of users and organisations that allow organised customer interactions for technical problems. 
 
-![image](https://github.com/user-attachments/assets/fc037453-7c02-4a25-b575-a135751a26ca)
-
+![image](https://github.com/user-attachments/assets/4a5beb82-19d8-4fee-8913-1b820a576618)
 
 
 Working for an organisation most likely has Domain controllers, group policies and identifiable computers in place. Therefore, I must introduce myself to the client and ask for more details, for example, the PC they are on.
