@@ -85,6 +85,7 @@ Covered topics such as mobile devices, networking technology, hardware, virtuali
 
 ##### Cloud 
 ![image](https://github.com/user-attachments/assets/43cc77e7-0cd6-40b9-89fc-4bdf483f83f5)
+######### Main Cloud Service models: Iaas, paas and SAAS (2024) Stackscale
 
 ## Education
 
