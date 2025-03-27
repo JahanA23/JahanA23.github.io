@@ -83,7 +83,8 @@ Covered topics such as mobile devices, networking technology, hardware, virtuali
 ## Knowledge 
 ![image](https://github.com/user-attachments/assets/3b1d5acd-f248-46c6-a773-387fbb56dafa)
 
-
+##### Cloud 
+![image](https://github.com/user-attachments/assets/43cc77e7-0cd6-40b9-89fc-4bdf483f83f5)
 
 ## Education
 
@@ -119,6 +120,9 @@ Passionate reading about IT, Law and Psychology
 
 
 
+#References 
+
+Main Cloud Service models: Iaas, paas and SAAS (2024) Stackscale. Available at: https://www.stackscale.com/blog/cloud-service-models/
 
 
 
