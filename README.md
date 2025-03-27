@@ -123,7 +123,7 @@ Passionate reading about IT, Law and Psychology
 
 #References 
 
-Main Cloud Service models: Iaas, paas and SAAS (2024) Stackscale. Available at: ![url https://www.stackscale.com/blog/cloud-service-models/]
+Main Cloud Service models: Iaas, paas and SAAS (2024) Stackscale. Available at: [ https://www.stackscale.com/blog/cloud-service-models/ ]
 
 
 
