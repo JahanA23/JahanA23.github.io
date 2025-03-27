@@ -44,8 +44,7 @@ Utilsing VMware i created my own lab. This includes setting up domain controller
 
 ### Python
 
-[![Run on Replit](https://replit.com/@jahanali4247/python-1#jahan.py)]
-    
+[![Run on Replit](https://replit.com/@jahanali4247/python-1)](https://replit.com/@jahanali4247/python-1)
     
 
 
@@ -54,7 +53,7 @@ Utilsing VMware i created my own lab. This includes setting up domain controller
 Working with numbers in Excel is a lifelong skill! Excel turns data into information that is easier to grasp. I enjoy doing projects using data ribbon and turn it into meaningful information.
 
 Using pivot tables and bar chart to identify top performing managers
-![image](https://github.com/user-attachments/assets/bf7710f0-79e5-4d02-b305-bf4db7d0667f)
+![image]
 
 
 ## Projects tips/shortcuts
