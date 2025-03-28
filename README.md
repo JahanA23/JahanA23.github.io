@@ -30,6 +30,16 @@ Software conflicts,
 Corrupted PDF, and
 Anti-malware software blocking access
 
+Pc 58
+![image](https://github.com/user-attachments/assets/754c70aa-6e5f-48fc-8c93-878ff41faac5)
+
+![image](https://github.com/user-attachments/assets/e79a4bb0-136c-4c56-bdd5-3d2bdaec93e3)
+
+Adding a internal note for future reference
+![image](https://github.com/user-attachments/assets/d48e42e2-d17d-49d5-abd7-f1457b06a6f7)
+
+Ticket closed
+![image](https://github.com/user-attachments/assets/f848b9e5-18cb-4fad-afed-1a1daa447243)
 
 
 ##### VMware
