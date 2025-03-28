@@ -88,7 +88,7 @@ Adding users
 
 ### Excel working with Data
 
-[Blog](https://jahanarticles.blogspot.com/2025/03/excel.html)
+[Blog](https://jahanexcelarticle.blogspot.com/2025/03/working-with-data-working-with-numbers.html)
 
 [Excel town](https://youtu.be/sHWoFPpzSsM)
 
