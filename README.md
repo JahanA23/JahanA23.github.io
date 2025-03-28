@@ -14,13 +14,18 @@ I am passionate about Information technology, with a four-year practical IT acad
 #### Adding a Computer to a Domain 
 
 Settings > about > scroll to advanced system settings
-![image](https://github.com/user-attachments/assets/918ab849-a546-4aa7-8528-1128a64960fb)
+![image](https://github.com/user-attachments/assets/53d95eb0-c94f-4311-b3e5-016f5247edb6)
 
 System properties
-![image](https://github.com/user-attachments/assets/326fd307-c286-4d20-8c50-cb236baec7f8)
+![image](https://github.com/user-attachments/assets/0914b1cd-490f-458e-baa9-615c53154ae5)
 
-Computer Domain 
-![image](https://github.com/user-attachments/assets/76d9de54-e333-4867-bbfa-9570819a38de)
+
+Change from workgroup to your Domain 
+![image](https://github.com/user-attachments/assets/35499741-712d-4b91-980a-ab010308ae8f)
+
+Linked to Windows Active directory Domain
+
+![image](https://github.com/user-attachments/assets/6ff1be1c-137c-47ef-9dac-655cea09ea90)
 
 
 
