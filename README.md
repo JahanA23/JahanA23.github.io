@@ -87,27 +87,10 @@ Adding users
 
 
 ### Excel working with Data
-Working with numbers in Excel is a lifelong skill! Excel turns data into information that is easier to grasp. I enjoy doing projects using data ribbon and turn it into meaningful information.
 
-Using pivot tables and bar chart to identify top performing managers
-
-![image](https://github.com/user-attachments/assets/b81f62af-2e71-4cd9-b14e-2716ff568631)
+Blog
 
 [Excel town](https://youtu.be/sHWoFPpzSsM)
-
-
-
-## Projects tips/shortcuts
-
-![image](https://github.com/user-attachments/assets/a1c0bcf8-529a-4355-b651-d3d339e08df1)
-
-
-By disabling autofit column widths the pivot table can made bigger or smaller and won't reset after a refresh. This is beneficial to avoid rest of pivot table widths.
-
-Report layout options
-
-
-![image](https://github.com/user-attachments/assets/3ae3f74f-cfd4-4d0f-aec6-00d51c466ab3)
 
 
 
