@@ -93,6 +93,9 @@ Using pivot tables and bar chart to identify top performing managers
 ![image]
 
 
+https://github.com/user-attachments/assets/efe0cd70-bf4d-42f5-862a-fdcf993415b0
+
+
 ## Projects tips/shortcuts
 
 ![image](https://github.com/user-attachments/assets/a1c0bcf8-529a-4355-b651-d3d339e08df1)
