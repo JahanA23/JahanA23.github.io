@@ -100,9 +100,11 @@ Covered topics such as mobile devices, networking technology, hardware, virtuali
 ## Knowledge 
 ![image](https://github.com/user-attachments/assets/3b1d5acd-f248-46c6-a773-387fbb56dafa)
 
- ##### Windows Keyboard Shortcuts
- fgdfgg	
-fhdfghgfdhdfg	
+
+##### Windows shortcuts
+
+![image](https://github.com/user-attachments/assets/a8524a40-ad4e-4bb5-9a00-0443dd756ed0)
+
 
 
 ##### Cloud 
