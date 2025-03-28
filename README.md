@@ -101,33 +101,9 @@ Covered topics such as mobile devices, networking technology, hardware, virtuali
 ![image](https://github.com/user-attachments/assets/3b1d5acd-f248-46c6-a773-387fbb56dafa)
 
  ##### Windows Keyboard Shortcuts
- *The + symbol denotes that the keys must be pressed simultaneously - does not
- mean press the + key except for the “Zoom In” action.
- Ctrl + p Print
- Ctrl + s Save
- alt + F4 Close Window / Quit Application
- F5 Refresh current window
- Ctrl + r Refresh webpage
- Ctrl + t Open new tab (when in browser)
- Ctrl + a Select all
- Ctrl + c Copy
- Ctrl + x Cut
- Ctrl + v Paste
- Ctrl + z Undo last action
- Ctrl + u Underline text
- Ctrl + b Bold text
- Ctrl + i Italicize text
- Ctrl + + Zoom in
- Ctrl + -Zoom out
- Ctrl + 0 Default zoom
- Ctrl + f Find
- alt + tab Move to next open application
- shift + delete Delete item permanently
- Windows button + e Open Windows Explorer
- Windows button + f Find files or folders
- Windows button + d Minimize windows / show desktop
- Windows button + c Access Control Panel
- Ctrl + alt + del Force quit application(s)
+ fgdfgg	
+fhdfghgfdhdfg	
+
 
 ##### Cloud 
 ![image](https://github.com/user-attachments/assets/43cc77e7-0cd6-40b9-89fc-4bdf483f83f5)
