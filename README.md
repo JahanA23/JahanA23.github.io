@@ -90,10 +90,11 @@ Adding users
 Working with numbers in Excel is a lifelong skill! Excel turns data into information that is easier to grasp. I enjoy doing projects using data ribbon and turn it into meaningful information.
 
 Using pivot tables and bar chart to identify top performing managers
-![image]
+
+![image](https://github.com/user-attachments/assets/b81f62af-2e71-4cd9-b14e-2716ff568631)
 
 
-![video (https://github.com/user-attachments/assets/efe0cd70-bf4d-42f5-862a-fdcf993415b0])
+
 
 
 ## Projects tips/shortcuts
