@@ -3,7 +3,7 @@
 
 I am passionate about Information technology, with a four-year practical IT academic background. I have practical experience in troubleshooting technical user issues software and hardware. Interested in continuous learning, so doing certifications like CompTIA A+ makes me more knowledgeable. I bring strong communication and customer service skills, with  few years of customer service experience at @JLP partners, @Primark, and @Domino's Pizza. Volunteering experience @Barnrado's charity.
 
-#### Technical Skills: Active Directory, Ticketing system Python, OOP bascis, SQL, AWS, Customer Service
+#### Technical Skills: Active Directory, Ticketing system, Cybersecurity awareness, Managing operting systems, Troubleshooting Software and hardware
 #### Interpersonal Skills: Team oriented goals, Patience & adaptibilty, Time management and commercial awareness. 
 
 
