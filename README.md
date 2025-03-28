@@ -1,5 +1,4 @@
-# Technican / IT support ( releveant Customer Service experience) - Comptia A+ core 1 passed (Certification in progress)
-
+# Technican / IT support ( releveant Customer Service experience)
 ## About me
 
 I am passionate about Information technology, with a four-year practical IT academic background. I have practical experience in troubleshooting technical user issues software and hardware. Interested in continuous learning, so doing certifications like CompTIA A+ makes me more knowledgeable. I bring strong communication and customer service skills, with a few years of service industry experience at @JPL partners, @Primark, and @Dominoi's Pizza. Volunteering experience @Barnrado's charity.
