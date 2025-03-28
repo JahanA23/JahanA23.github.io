@@ -52,6 +52,10 @@ Utilsing VMware i created my own lab. This includes setting up domain controller
 
 ![image](https://github.com/user-attachments/assets/ceaa806a-1b45-420e-87c8-81b3d6abf5a1)
 
+Adding users
+
+![image](https://github.com/user-attachments/assets/85b65cf8-201f-4e54-88c5-2e62c9ce7c4f)
+
 ### Python
 
 ![image](https://github.com/user-attachments/assets/9d02142a-d986-4d74-8d04-6adcabd788ce)
