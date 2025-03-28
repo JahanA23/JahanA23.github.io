@@ -11,6 +11,19 @@ I am passionate about Information technology, with a four-year practical IT acad
 
 ### IT Support/Technical projects
 
+#### Adding a Computer to a Domain 
+
+Settings > about > scroll to advanced system settings
+![image](https://github.com/user-attachments/assets/918ab849-a546-4aa7-8528-1128a64960fb)
+
+System properties
+![image](https://github.com/user-attachments/assets/326fd307-c286-4d20-8c50-cb236baec7f8)
+
+Computer Domain 
+![image](https://github.com/user-attachments/assets/76d9de54-e333-4867-bbfa-9570819a38de)
+
+
+
 #### Ticketing systems (spicework pratical projects)
 
 
