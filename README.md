@@ -6,6 +6,8 @@ I am passionate about Information technology, with a four-year practical IT acad
 #### Technical Skills: Active Directory, Ticketing system, Cybersecurity awareness, Managing operting systems, Troubleshooting Software and hardware, Excel manipulating data, AWS & Azure, SQL, Python
 #### Interpersonal Skills: Team oriented goals, Patience & adaptibilty, Time management and commercial awareness. 
 
+## Projects in progress
+Android Sass Application in progress with a friend @University college London
 
 ## Projects
 
