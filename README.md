@@ -7,7 +7,7 @@ Ambitious and adaptable Information Technology professional skilled in troublesh
 #### Interpersonal Skills: Team oriented goals, Patience & adaptibilty, Time management and commercial awareness. 
 
 ## Projects in progress
-Android Sass Application in progress... with a schoolmate @University college London
+Android Sass Application (Java & Kotlin) in progress... with a schoolmate @University College London
 
 ## Projects
 
